@@ -28,7 +28,7 @@ class H2OHours(App):
         # Text input
         self.input = TextInput(
                         multiline=False,
-                        padding_y=(20, 20),
+                        padding_y=(10, 10),
                         size_hint=(1, 0.5)
                         )
 
